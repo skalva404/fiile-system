@@ -1,7 +1,5 @@
 package org.problems.swiggy;
 
-import com.sun.jdi.VMOutOfMemoryException;
-
 public class SimpleBlock implements IBlock {
 
     private int size;
